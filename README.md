@@ -9,6 +9,7 @@
 
 
 #### 💡 STUDY ON
+* Winter Short Term Program at the University of Hawaii West Oahu (2018.01)
 * Brain Information Lab Undergraduate research student ( 2017.09 ~ 2020.02 )
 * B.A. in Electronic Engineering ( 2014.03 ~ 2020.02 )
 <br/>
