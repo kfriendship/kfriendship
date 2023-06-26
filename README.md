@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Woojung%20Kwak&fontSize=50)
 
 #### 👩‍💻 WORKING AT
-* Clobot ( Frone-End Developer, 2020.07 ~ )
+* Clodot Co. ( Frone-End Developer, 2020.07 ~ )
 * LG Electronic VS Intern ( Germany, 2019.04 ~ 2019.08 )
 <br/>
 
